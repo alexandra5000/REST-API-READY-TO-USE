@@ -1,17 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to REST-API's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Welcome to the *REST-API* documentation! You can access *`REST-API <https://restful-api.dev/>`* endpoints to get information on various electronic devices in the database. You can use the API for demo projects, testing, learning, or teaching others.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
 
 Contents
 --------
